@@ -342,7 +342,7 @@ def highlight_pdf_text(file_path, highlight_text, page_numbers):
         print(f"Error in highlight_pdf_text: {e}")
         return None
 
-
+hduhu
 
 # Function to find answer using GPT
 def find_answer_gpt(question, context):
